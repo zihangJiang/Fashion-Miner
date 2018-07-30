@@ -7,4 +7,4 @@
 
 ⚫ Records of the influence by different threshold values 
 
-⚫ Predict fashion tren
+⚫ Predict fashion trend
