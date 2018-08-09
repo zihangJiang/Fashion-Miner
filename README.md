@@ -9,4 +9,4 @@
 
 ⚫ Predict fashion trend
 
-![](G06-Final-Poster.png)
+![](pict/G06-Final-Poster.png)
