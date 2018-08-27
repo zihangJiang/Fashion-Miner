@@ -8,5 +8,6 @@
 ⚫ Records of the influence by different threshold values 
 
 ⚫ Predict fashion trend
+# Here is the poster
 
 ![](pict/G06-Final-Poster.png)
